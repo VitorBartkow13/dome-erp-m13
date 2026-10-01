@@ -1,0 +1,15 @@
+Nicho_O;2;28.0;Voluntario_Arthur
+Nicho_N;2;28.0;Voluntario_Beatriz
+Nicho_M;2;28.0;Voluntario_Carlos
+Nicho_L;2;28.0;Voluntario_Daniela
+Nicho_K;2;28.0;Voluntario_Eduardo
+Nicho_J;2;28.0;Voluntario_Fernanda
+Nicho_I;2;28.0;Voluntario_Gabriel
+Nicho_H;2;28.0;Voluntario_Helena
+Nicho_G;2;28.0;Voluntario_Igor
+Nicho_F;3;29.8;Voluntario_Julia
+Nicho_E;3;30.7;Voluntario_Lucas
+Nicho_D;3;32.5;Voluntario_Mariana
+Nicho_C;4;34.8;Voluntario_Nicolas
+Nicho_B;4;36.1;Voluntario_Olga
+Nicho_A;4;37.9;Voluntario_Pedro
